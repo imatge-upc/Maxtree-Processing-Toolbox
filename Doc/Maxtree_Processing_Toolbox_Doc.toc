@@ -1,0 +1,14 @@
+\select@language {english}
+\contentsline {section}{\numberline {1}Introduction}{2}{section.1}
+\contentsline {section}{\numberline {2}Installation}{2}{section.2}
+\contentsline {section}{\numberline {3}Creating Max/Mintrees}{2}{section.3}
+\contentsline {subsection}{\numberline {3.1}Tree creation from images}{2}{subsection.3.1}
+\contentsline {subsection}{\numberline {3.2}Tree creation from Maxtrees or Mintrees}{3}{subsection.3.2}
+\contentsline {section}{\numberline {4}Creating Max/Mintree Attributes}{3}{section.4}
+\contentsline {section}{\numberline {5}Max/Mintrees visualization}{5}{section.5}
+\contentsline {section}{\numberline {6}Processing Max/Mintrees}{7}{section.6}
+\contentsline {subsection}{\numberline {6.1}Pruning}{7}{subsection.6.1}
+\contentsline {subsection}{\numberline {6.2}Filters}{8}{subsection.6.2}
+\contentsline {subsection}{\numberline {6.3}Morphological reconstruction}{10}{subsection.6.3}
+\contentsline {subsection}{\numberline {6.4}Other processing functions}{12}{subsection.6.4}
+\contentsline {section}{\numberline {7}Image or tree restitution}{13}{section.7}

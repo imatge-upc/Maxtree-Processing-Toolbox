@@ -1,0 +1,13 @@
+\BOOKMARK [1][-]{section.1}{Introduction}{}% 1
+\BOOKMARK [1][-]{section.2}{Installation}{}% 2
+\BOOKMARK [1][-]{section.3}{Creating Max/Mintrees}{}% 3
+\BOOKMARK [2][-]{subsection.3.1}{Tree creation from images}{section.3}% 4
+\BOOKMARK [2][-]{subsection.3.2}{Tree creation from Maxtrees or Mintrees}{section.3}% 5
+\BOOKMARK [1][-]{section.4}{Creating Max/Mintree Attributes}{}% 6
+\BOOKMARK [1][-]{section.5}{Max/Mintrees visualization}{}% 7
+\BOOKMARK [1][-]{section.6}{Processing Max/Mintrees}{}% 8
+\BOOKMARK [2][-]{subsection.6.1}{Pruning}{section.6}% 9
+\BOOKMARK [2][-]{subsection.6.2}{Filters}{section.6}% 10
+\BOOKMARK [2][-]{subsection.6.3}{Morphological reconstruction}{section.6}% 11
+\BOOKMARK [2][-]{subsection.6.4}{Other processing functions}{section.6}% 12
+\BOOKMARK [1][-]{section.7}{Image or tree restitution}{}% 13
