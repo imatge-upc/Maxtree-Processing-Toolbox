@@ -29,4 +29,4 @@ This toolbox has been designed to explore processing ideas and perform experimen
  5. P. Salembier, S. Liesegang and C. Lopez-Martinez, [Ship Detection in SAR Images based on Maxtree Representation and Graph Signal Processing](Doc/Ship_Detection_in_SAR_Images_based_on_Maxtree_Representation_and_Graph_Signal_Processing.pdf), IEEE Transactions on Geoscience and Remote Sensing, Accepted for publication, 2018.
 
 **Contact:** 
-Philippe Salembier (email: <philippe.salembier@upc.edu>), Sergi Liesegang
+Philippe Salembier (email: <philippe.salembier@upc.edu>), Sergi Liesegang.
